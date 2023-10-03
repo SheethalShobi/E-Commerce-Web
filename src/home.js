@@ -15,10 +15,7 @@ import mobile from "./img/Mobile Phone.png";
 import headphone from "./img/headphone.png";
 import smartwatch from "./img/smart watch.png";
 import cpu from "./img/cpu heat.jpg";
-import p9 from "./img/p9.jpg";
-import p10 from "./img/p10.jpg";
-import p11 from "./img/p11.jpg";
-import p12 from "./img/p12.jpg";
+
 const Home = ({detail, view, close, setClose, addtocart}) => {
   return (
     <>
